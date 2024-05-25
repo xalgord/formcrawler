@@ -3,6 +3,6 @@ crawl the URLs having forms
 
 # Usage
 
-```python
+```bash
 python3 crawler.py
 ```
